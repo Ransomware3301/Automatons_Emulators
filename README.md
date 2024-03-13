@@ -1,5 +1,5 @@
-# Automatons_Emulators
-Kotlin programs that are able to emulate the following automatons:
+# Deterministic_Automatons_Emulators
+Kotlin programs that are able to emulate the following deterministic automatons:
 
 - In file "FSAAutomatonsInformationTheory.kt"
   - Finite State Automaton (FSA) in Recognise Mode
@@ -20,7 +20,7 @@ An automaton is a mathematical representation of a machine that is programmed to
 Their applications are endless, but they are mainly used in contexts where performance is key, for example the program that checks
 wether parentheses are correctly balanced (meaning that the number of open = number of closed parentheses) uses a PDA automaton (see below for definition).
 
-Currently, the available automatons are the following:
+Currently, the available deterministic automatons are the following:
 - Finite State Automaton (FSA)
 - Finite State Automaton Translator (FSA-T)
 - Push-Down Automaton (PDA)
