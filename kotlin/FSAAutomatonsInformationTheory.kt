@@ -5,7 +5,7 @@
  *  Date:       29/02/2024
  */
 
-// TODO: Fix beta translation function
+
 
 /*
  *  Automata Mathematical Descriptions:
