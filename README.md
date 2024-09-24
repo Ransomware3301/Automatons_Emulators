@@ -94,7 +94,7 @@ If we provide an input string, for example <code>010111</code>, then the automat
 <br>
 
 ### Example (2):
-- **Description**: PDA automaton that recognizes strings belonging to the language: L = {a^n b^n : n \in \mathbb{N} }
+- **Description**: PDA automaton that recognizes strings belonging to the language: $L = \[ a^{n} b^{n} | n \in \mathbb{N} \]$
 - **Parameters**:
  
 ```
