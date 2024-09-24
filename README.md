@@ -24,7 +24,7 @@ Currently, the available deterministic automatons are the following:
 - Finite State Automaton (FSA)
 - Finite State Automaton Translator (FSA-T)
 - Push-Down Automaton (PDA)
-- Push-Down Automaton Translatro (PDA-T)
+- Push-Down Automaton Translator (PDA-T)
 
 - - -
 
